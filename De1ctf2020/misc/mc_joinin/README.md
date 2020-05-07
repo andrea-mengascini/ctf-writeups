@@ -26,17 +26,17 @@ Client isn't necessary.
 
 Looking up at the [Minecraft Server Status](https://mcsrvstat.us/server/222.85.25.41) it showed a different version from the 1.12 reported on the website:
 
->MOTD	De1Ta He4dl3ss M1neCrAft Te2t SeRv3r
-Players	0 / 2147483648
+>MOTD	De1Ta He4dl3ss M1neCrAft Te2t SeRv3r<br>
+Players	0 / 2147483648<br>
 Version	**MC2020**
 
 And looking at the debug info:
->IP address:        222.85.25.41
-Port:               25565
-**Protocol version:   997**
-Cached result       No
-SRV record          No
-Ping                Yes
+>IP address:        222.85.25.41<br>
+Port:               25565<br>
+**Protocol version:   997**<br>
+Cached result       No<br>
+SRV record          No<br>
+Ping                Yes<br>
 Query               No
 
 As the website stated a Client was not necessary. Even if the server was displayed in the Minecraft client:
