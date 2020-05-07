@@ -5,11 +5,11 @@
 我们在等你。<br>
 Hurry up and join in the game.
 We’re waiting for you.<br>
-http://134.175.230.10/ (cn)
-http://222.85.25.41/ (cn)
-http://144.202.79.93/ (us)
-http://80.240.24.78/ (de)
-http://45.77.253.164/ (sg)
+http://134.175.230.10/ (cn)<br>
+http://222.85.25.41/ (cn)<br>
+http://144.202.79.93/ (us)<br>
+http://80.240.24.78/ (de)<br>
+http://45.77.253.164/ (sg)<br>
 
 **Hint**
 * mc_joinin's flag is: De1CTF{md5(flag)} mc_joinin的flag格式为：De1CTF{md5(flag)}
